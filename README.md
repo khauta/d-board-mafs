@@ -2,7 +2,7 @@
 Farmer's Information Dashboard for Ministry of Agriculture &amp; Food Security for Marakeng Upgrade 
 # d-board-mafs
 
-# Sheveloped By Dr. @Aurum Maliehe & Mr Shadowalker
+She-veloped By Dr. @Aurum Maliehe & Mr @Shadowalker Kao
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
@@ -54,6 +54,9 @@ from my postman test i found my ajax code looking like #sumfing-kaofela, I mean 
     "cache-control": "no-cache",
     "postman-token": "b5671b43-227b-6a6b-b693-33ee178b9011"
   },
+  ```
+  
+  ```
   "processData": false,
   "data": "{\n\t\"title\" : \"2.2 hello world prices 2\",\n\t\"content\": \"<br><span style='float:left;width:100%'>Records per page <br><select class=\\\"paginate\\\" onchange=\\\"window.location='http://localhost:8000/market-prices/market-prices-december-04-2022/?paged=1&ipp='+this[this.selectedIndex].value+'';return false\\\"><option selected value=\\\"10\\\">10</option>\\n<option value=\\\"20\\\">20</option>\\n<option value=\\\"30\\\">30</option>\\n<option value=\\\"40\\\">40</option>\\n<option value=\\\"50\\\">50</option>\\n<option value=\\\"100\\\">100</option>\\n</select><br><span class=\\\"paginate\\\"></span></span><div class='table_show'><table table_id='1' current_user='admin' class='tablesorter' id='sort_table'><thead><tr><th>Product Name</th><th>Qty (kg)</th><th>Price (LSL M)</th></tr></thead><tr><td>Potatoes</td><td>1</td><td>25</td></tr><tr><td>Pork</td><td>1</td><td>70</td></tr><tr><td>Maize</td><td>10</td><td>85</td></tr></table></div><script type=\\\"text/javascript\\\">\\r\\n\\t\\t\\t\\tjQuery(document).ready(function($){\\t\\r\\n\\t\\t\\t\\t\\t$(\\\"#sort_table\\\").tablesorter({sortList: [], headers: {0:{sorter: false},1:{sorter: false},2:{sorter: false}}});\\r\\n\\t\\t\\t\\t});\\r\\n\\t\\t\\t</script>\\t\\t<div class=\\\"paging_function\\\">\\t\\t\\t\\r\\n\\t\\t\\t<ul class=\\\"list_page\\\"><li class=\\\"active_page\\\">1</li> </ul>\\r\\n\\t\\t\\t<p>showing 0 to 3 of 3 entries</p>\\r\\n\\t\\t</div>\\t\\r\\n\\t\\r\\n\\t\\n\",\n\t\"status\": \"publish\",\n\t\"publisher\": \"khauta\"\n}"
 }
