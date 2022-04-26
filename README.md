@@ -43,9 +43,7 @@ To Dos (Backend)
 
 from my postman test i found my ajax code looking like #sumfing-kaofela, I mean like this:
 
-`
-
-var settings = {
+```var settings = {
   "async": true,
   "crossDomain": true,
   "url": "http://localhost:8000/wp-json/wp/v2/market-prices/",
@@ -63,5 +61,4 @@ var settings = {
 $.ajax(settings).done(function (response) {
   console.log(response);
 });
-
-`
+```
